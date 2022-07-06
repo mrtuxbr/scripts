@@ -18,3 +18,4 @@ echo "deb [signed-by=/usr/share/keyrings/prebuilt-mpr-archive-keyring.gpg] https
 
 sudo apt update
 sudo apt install polymc
+exit 0
